@@ -1,0 +1,12 @@
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\AmortizationPlanCalculator.csprojAssemblyReference.cache
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\amort_nacrt_2.Form1.resources
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\amort_nacrt_2.Properties.Resources.resources
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\AmortizationPlanCalculator.csproj.GenerateResource.cache
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\AmortizationPlanCalculator.csproj.CoreCompileInputs.cache
+D:\Namizje\copywizcopies\AmortPlanCalculator\bin\Debug\AmortizacijskiNacrtBaza.mdf
+D:\Namizje\copywizcopies\AmortPlanCalculator\bin\Debug\AmortizacijskiNacrtBaza_log.ldf
+D:\Namizje\copywizcopies\AmortPlanCalculator\bin\Debug\amort_nacrt_2.exe.config
+D:\Namizje\copywizcopies\AmortPlanCalculator\bin\Debug\amort_nacrt_2.exe
+D:\Namizje\copywizcopies\AmortPlanCalculator\bin\Debug\amort_nacrt_2.pdb
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\amort_nacrt_2.exe
+D:\Namizje\copywizcopies\AmortPlanCalculator\obj\Debug\amort_nacrt_2.pdb
