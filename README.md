@@ -1,6 +1,8 @@
 # AmortPlanCalculator
 Simple bond amortization calculator
 
+You probably have to change the connection string in appsettings
+
 I don't think you actually need the dapper package (visual studio extension).
 
 Regarding code:
